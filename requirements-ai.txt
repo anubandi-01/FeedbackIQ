@@ -1,0 +1,3 @@
+# Optional pretrained Transformer sentiment model
+transformers>=4.40
+torch
